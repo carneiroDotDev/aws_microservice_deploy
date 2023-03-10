@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/carneiroDotDev/aws_microservice_deploy/tree/master.svg?style=svg)](https://circleci.com/gh/carneiroDotDev/aws_microservice_deploy/tree/master)
+[![CircleCI](https://circleci.com/gh/carneiroDotDev/aws_microservice_deploy/tree/master.svg?style=svg)](https://circleci.com/gh/carneiroDotDev/aws_microservice_deploy/tree/master).
 
 ## Project Overview
 
